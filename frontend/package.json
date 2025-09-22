@@ -59,7 +59,9 @@
     "start": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "craco test"
+    "test": "craco test",
+    "deploy": "vercel --prod",
+    "deploy:preview": "vercel"
   },
   "browserslist": {
     "production": [
