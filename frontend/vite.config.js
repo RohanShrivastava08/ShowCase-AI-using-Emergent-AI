@@ -11,7 +11,13 @@ export default defineConfig({
   },
   server: {
     port: 3000,
-    host: true
+    host: true,
+    allowedHosts: 'all'
+  },
+  preview: {
+    port: 4000,
+    host: true,
+    allowedHosts: 'all'
   },
   build: {
     outDir: 'dist',
@@ -24,5 +30,8 @@ export default defineConfig({
         }
       }
     }
+  },
+  define: {
+    global: 'globalThis',
   }
 })
