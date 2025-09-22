@@ -56,8 +56,8 @@
   },
   "scripts": {
     "dev": "vite",
-    "start": "vite",
-    "build": "vite build",
+     "build": "cd frontend && yarn build",
+    "start": "cd frontend && yarn start"
     "preview": "vite preview",
     "test": "craco test",
     "deploy": "vercel --prod",
