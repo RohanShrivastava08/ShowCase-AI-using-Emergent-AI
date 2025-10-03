@@ -1,4 +1,4 @@
-# 🧠 AI-Summarizer Chrome Extensio
+# 🧠 AShowCase AI using Emergent AI
 
 
 
