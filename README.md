@@ -1,14 +1,14 @@
 # 🧠 ShowCase AI using Emergent AI
 
+- A modern, AI-powered portfolio and showcase platform generated with Emergent AI.
+
+- Designed to display projects, experiences, and skills with minimal setup.
+
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/51b0a6e5-7010-47a0-a1ce-4780e5db7379" />
 
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/c6be5fd3-3ad2-4ef6-8167-2b6c0c8046e2" />
 
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/e09d84f9-3b6e-4d25-b25c-3ea8347cbc03" />
-
-- A modern, AI-powered portfolio and showcase platform generated with Emergent AI.
-
-- Designed to display projects, experiences, and skills with minimal setup.
 
 
 ## 📋 Table of Contents
